@@ -1,0 +1,22 @@
+{
+  "name": "ng-animations",
+  "version": "0.0.1",
+  "description": "Collection of angular 5+ animations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-sokolowski/ng-animations.git"
+  },
+  "keywords": [
+    "angular",
+    "animations"
+  ],
+  "author": "Adam Sokolowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-sokolowski/ng-animations/issues"
+  },
+  "homepage": "https://github.com/adam-sokolowski/ng-animations#readme",
+  "dependencies": {
+    "@angular/animations": "^6.0.9"
+  }
+}
